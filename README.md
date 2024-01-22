@@ -24,7 +24,7 @@ Feel free to use and modify the linked list implementations according to your ne
 
 ## Contributors
 
-- [Your Name]
+- Alexander Cruz
 
 ## License
 
